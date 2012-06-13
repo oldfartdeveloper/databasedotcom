@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "databasedotcom/version"
 
 Gem::Specification.new do |s|
-  s.name        = "databasedotcom-ejholmes"
+  s.name        = "databasedotcom"
   s.version     = Databasedotcom::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Glenn Gillen, Danny Burkes, Richard Zhao & Eric Holmes"]
